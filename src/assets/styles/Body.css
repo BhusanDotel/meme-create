@@ -1,0 +1,10 @@
+.body-root {
+  display: flex;
+  column-gap: 10px;
+}
+@media screen AND (max-width: 1000px) {
+  .body-root {
+    display: flex;
+    flex-direction: column;
+  }
+}
