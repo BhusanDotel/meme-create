@@ -1,5 +1,5 @@
 import React from "react";
-import Body from "./assets/page/body";
+import Body from "./assets/page/Body";
 
 import "./App.css";
 
